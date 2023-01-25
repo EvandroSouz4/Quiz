@@ -1,8 +1,8 @@
 <h1 align="center">Mini Quiz Com Js</h1>
-<div align="center">
-   <img alt="imagem do projeto" src=""/>
-</div>
+
+![Screenshot_20230125-101819](https://user-images.githubusercontent.com/123305346/214575399-a1ef189c-258d-40ab-9785-06b3058140c1.jpg)
 <h2>Linguagens utilizadas</h2>
+
 <ul list-style="none">
    <li>HTML</li>
    <li>CSS</li>
